@@ -1,1 +1,1 @@
-alert('Finally Loaded');
+console.log('Finally Loaded');
